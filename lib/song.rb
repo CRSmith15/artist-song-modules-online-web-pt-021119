@@ -1,5 +1,4 @@
 require 'pry'
-require_relative './concer'
 
 class Song
   extend Memorable
